@@ -19,8 +19,8 @@ Before you can use this application, you need to obtain a Giphy API key. Here's 
 1. Clone this repository to your local machine.
 
    ```
-   git clone https://github.com/your-username/giphy-api-frontend.git
-   cd giphy-api-frontend
+   git clone https://github.com/mateusdreher/bc-react-challenge
+   cd bc-react-challenge
 	```
 
 2. Create a .env file in the root of the application and put your Giphy API key in it as follows:
@@ -41,9 +41,7 @@ Before you can use this application, you need to obtain a Giphy API key. Here's 
 
 Once you have set up your Giphy API key and installed the dependencies, you can start the application by running:
 
-	```bash
 	npm start
-	```
 
 
 The application will start, and you can access it in your web browser at http://localhost:3000.
